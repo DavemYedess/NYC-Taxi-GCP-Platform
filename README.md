@@ -69,8 +69,6 @@ Prédiction du montant total des courses (`total_amount`).
 =======
 ## Note : les graphiques interactifs Plotly sont mieux visualisées en les téléchargeant ou avec nbviewer. 
 
-# Google Cloud Platform pour Data Engineers : Projet pratique
-
 ## ELT avec BigQuery, GCS, Airflow, Python et SQL - Projet réel sur GCP, de l'ingestion des données au Machine Learning.
 
 ## (Complete GCP pipeline and ML model structure) 
