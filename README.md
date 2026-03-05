@@ -2,7 +2,7 @@
 ### NYC Yellow Taxi — ELT Pipeline, BI Analytics & Machine Learning
 
 > **Positionnement Professionnel :** Ce projet démontre une maîtrise complète du cycle de vie de la donnée (Modern Data Stack) : du pipeline ELT orchestré à la modélisation prédictive. 
-> *Cible : Analytics Engineer Junior.*
+> *Cible : BI/Analytics Engineer (Junior).*
 
 ---
 
